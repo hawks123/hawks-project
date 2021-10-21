@@ -1,0 +1,331 @@
+2021-10-19 20:44:56,102 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-19 20:44:56,199 - logger_file -INFO - User clicked on MyAccount
+2021-10-19 20:44:56,465 - logger_file -INFO - user clicked on Login Option
+2021-10-19 20:44:56,735 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-19 20:44:57,192 - logger_file -INFO - user clicked on Login Button
+2021-10-19 20:44:57,278 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-19 20:59:30,812 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-19 20:59:33,804 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-19 20:59:33,910 - logger_file -INFO - User clicked on MyAccount
+2021-10-19 20:59:34,181 - logger_file -INFO - user clicked on Login Option
+2021-10-19 20:59:34,443 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-19 20:59:34,792 - logger_file -INFO - user clicked on Login Button
+2021-10-19 20:59:34,872 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-19 20:59:35,128 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-19 21:55:04,784 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-19 21:55:08,208 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-19 21:55:09,119 - logger_file -INFO - scenarioRetail website Login test FAILED
+2021-10-20 04:19:21,499 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 04:19:25,549 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:19:26,565 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:19:27,576 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:19:28,108 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 04:19:29,258 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:19:29,336 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:19:29,936 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 04:40:46,948 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 04:40:54,055 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:40:55,042 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:40:55,616 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:40:55,933 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:41:19,383 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:41:23,723 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:41:27,638 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:41:28,484 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:41:28,892 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:41:29,218 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:41:38,284 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:41:50,810 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:41:54,269 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:43:00,104 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 04:43:12,628 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:43:13,734 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:43:18,667 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:43:19,273 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 04:43:23,886 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:43:23,997 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:43:24,546 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 04:43:24,568 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:43:27,752 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:43:28,737 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:43:31,128 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:43:31,698 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 04:43:33,951 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:43:34,084 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:43:34,561 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 04:43:34,579 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:43:37,431 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:43:38,334 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:43:39,677 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:43:40,332 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 04:43:41,589 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:43:41,676 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:43:42,104 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 04:43:42,118 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:43:44,814 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:43:45,641 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:43:47,541 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:43:48,242 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 04:43:50,604 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:43:50,714 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:43:51,259 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 04:44:40,444 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 04:44:44,464 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:44:45,394 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:44:46,353 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:44:47,022 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 04:44:47,941 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:44:48,033 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:44:48,464 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 04:44:48,542 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:44:50,895 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:44:51,790 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:44:52,767 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:44:53,245 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 04:44:54,110 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:44:54,172 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:44:54,767 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 04:44:54,785 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:44:57,995 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:44:58,450 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:44:59,732 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:45:00,277 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 04:45:01,398 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:45:01,488 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:45:02,005 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 04:45:02,051 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 04:45:04,713 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 04:45:05,720 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 04:45:06,842 - logger_file -INFO - user clicked on Login Option
+2021-10-20 04:45:07,403 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 04:45:08,102 - logger_file -INFO - user clicked on Login Button
+2021-10-20 04:45:08,179 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 04:45:08,598 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:43:47,387 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 06:43:50,417 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:43:51,390 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:43:52,256 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:48:22,389 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 06:48:25,694 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:48:26,433 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:48:26,995 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:48:27,398 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:48:27,950 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:48:28,018 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:48:28,469 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 06:48:28,493 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:48:30,433 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:48:30,997 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:48:31,522 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:48:31,882 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:48:32,438 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:48:32,491 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:48:32,831 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:48:32,847 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:48:34,641 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:48:35,398 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:48:35,910 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:48:36,296 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 06:48:36,760 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:48:36,807 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:48:37,151 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:48:37,169 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:48:39,162 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:48:39,716 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:48:40,270 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:48:40,636 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 06:48:41,196 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:48:41,254 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:48:41,594 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:49:12,449 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 06:49:16,185 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:49:16,991 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:49:17,573 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:49:17,967 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:49:18,539 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:49:18,606 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:49:18,954 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 06:49:18,976 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:49:21,114 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:49:21,826 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:49:22,379 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:49:22,756 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:49:23,243 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:49:23,296 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:49:23,647 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:49:23,662 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:49:25,517 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:49:26,234 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:49:26,776 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:49:27,190 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 06:49:27,677 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:49:27,723 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:49:28,039 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:49:28,051 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:49:29,903 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:49:30,579 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:49:31,128 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:49:31,541 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 06:49:32,109 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:49:32,157 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:49:32,496 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 06:50:56,077 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 06:50:58,446 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:50:59,751 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:51:01,009 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:53:01,331 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 06:53:10,093 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:53:10,637 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:53:11,095 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:53:11,282 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:53:11,716 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:53:11,782 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:53:12,795 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:53:17,593 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:53:17,989 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:53:18,339 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:53:18,527 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 06:53:18,952 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:53:19,018 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:53:20,175 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:53:25,124 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:53:25,549 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:53:25,893 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:53:26,098 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 06:53:26,551 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:53:26,594 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 06:53:27,660 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 06:53:33,253 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 06:53:33,646 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 06:53:34,078 - logger_file -INFO - user clicked on Login Option
+2021-10-20 06:53:34,273 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 06:53:34,929 - logger_file -INFO - user clicked on Login Button
+2021-10-20 06:53:34,976 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:22:52,044 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 07:22:56,712 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:22:57,628 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:23:00,443 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:23:00,835 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:23:02,591 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:23:02,687 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:23:03,080 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 07:23:03,101 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:23:05,619 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:23:06,327 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:23:07,130 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:23:07,512 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:23:08,233 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:23:08,284 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:23:08,639 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:23:08,658 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:23:11,094 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:23:11,749 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:23:12,881 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:23:13,244 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 07:23:15,578 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:23:15,625 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:23:15,956 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:23:15,968 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:23:18,489 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:23:19,199 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:23:19,935 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:23:20,306 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 07:23:20,915 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:23:20,961 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:23:21,319 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:33:26,130 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 07:33:30,868 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:33:31,581 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:33:34,965 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:33:35,357 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:33:38,724 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:33:38,791 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:33:39,138 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 07:33:39,159 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:33:42,590 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:33:43,385 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:33:44,870 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:33:45,251 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:33:46,321 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:33:46,369 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:33:46,797 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:33:46,814 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:33:49,229 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:33:49,906 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:33:51,240 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:33:51,611 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 07:33:52,799 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:33:52,848 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:33:53,219 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:33:53,232 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:33:55,255 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:33:55,940 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:33:56,656 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:33:57,032 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 07:33:58,075 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:33:58,120 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:33:58,476 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:35:31,964 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 07:35:34,840 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:35:35,609 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:35:36,393 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:35:36,774 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:35:37,484 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:35:37,554 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:35:37,956 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 07:35:37,976 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:35:39,856 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:35:40,572 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:35:41,214 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:35:41,589 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 07:35:42,249 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:35:42,302 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:35:42,633 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:35:42,647 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:35:46,369 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:35:47,119 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:35:48,804 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:35:49,185 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 07:35:51,726 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:35:51,775 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:35:52,134 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 07:35:52,145 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 07:35:55,225 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 07:35:55,903 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 07:35:57,141 - logger_file -INFO - user clicked on Login Option
+2021-10-20 07:35:57,523 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 07:35:59,488 - logger_file -INFO - user clicked on Login Button
+2021-10-20 07:35:59,531 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 07:35:59,854 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 08:17:33,361 - logger_file -INFO - scenarioRetail website Login testStarted
+2021-10-20 08:17:36,497 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 08:17:37,292 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 08:17:37,930 - logger_file -INFO - user clicked on Login Option
+2021-10-20 08:17:38,320 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 08:17:38,798 - logger_file -INFO - user clicked on Login Button
+2021-10-20 08:17:38,878 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 08:17:39,281 - logger_file -INFO - scenarioRetail website Login test PASSED
+2021-10-20 08:17:39,309 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 08:17:41,236 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 08:17:41,877 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 08:17:42,490 - logger_file -INFO - user clicked on Login Option
+2021-10-20 08:17:42,891 - logger_file -INFO - user Enter eagles@tekschool.usand passwordeagles
+2021-10-20 08:17:43,613 - logger_file -INFO - user clicked on Login Button
+2021-10-20 08:17:43,656 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 08:17:44,047 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 08:17:44,064 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 08:17:45,916 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 08:17:46,703 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 08:17:47,213 - logger_file -INFO - user clicked on Login Option
+2021-10-20 08:17:47,623 - logger_file -INFO - user Enter hawks@tekschool.usand passwordhawks
+2021-10-20 08:17:48,139 - logger_file -INFO - user clicked on Login Button
+2021-10-20 08:17:48,189 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 08:17:48,557 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED
+2021-10-20 08:17:48,572 - logger_file -INFO - scenarioRetail website Login test with multiple accountsStarted
+2021-10-20 08:17:50,550 - logger_file -INFO - Actual Title is matching with expected title
+2021-10-20 08:17:51,186 - logger_file -INFO - User clicked on MyAccount
+2021-10-20 08:17:51,720 - logger_file -INFO - user clicked on Login Option
+2021-10-20 08:17:52,112 - logger_file -INFO - user Enter falcons@tekschool.usand passwordfalcons
+2021-10-20 08:17:52,622 - logger_file -INFO - user clicked on Login Button
+2021-10-20 08:17:52,671 - logger_file -INFO - user is logged in to MyAccount Dashboard
+2021-10-20 08:17:53,004 - logger_file -INFO - scenarioRetail website Login test with multiple accounts PASSED

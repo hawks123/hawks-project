@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.325 s <<< FAILURE! - in runner.TestRunner
+Retail Website Login test(Login to Retail Website)  Time elapsed: 0.283 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'user is on Retail website' and 5 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user is on Retail website")
+public void user_is_on_retail_website() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on Myaccount")
+public void user_click_on_myaccount() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on login option")
+public void user_click_on_login_option() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter userName {string} and password {string}")
+public void user_enter_user_name_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user click on login button")
+public void user_click_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("user should be logged in to Myaccout dashboard")
+public void user_should_be_logged_in_to_myaccout_dashboard() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

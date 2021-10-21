@@ -1,0 +1,544 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 17,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 790213700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 429918900,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user click on Myaccount",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Myaccount()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-20T15:17:33.088Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3222164000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Retail website Login test",
+        "description": "",
+        "id": "login-to-retail-website;retail-website-login-test",
+        "after": [
+          {
+            "result": {
+              "duration": 277841200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 467738100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user click on Login option",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 363245500,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user enter userName \u0027eagles@tekschool.us\u0027 and password \u0027eagles\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "eagles@tekschool.us",
+                  "offset": 21
+                },
+                {
+                  "val": "eagles",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDefinition.LoginStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 306350200,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user click on Login Button",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 202882900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user should be logged in to Myaccount dashboard",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_should_be_logged_in_to_Myaccount_dashbaord()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smokeTest"
+          },
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@endtoendTesting"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 588396900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 408767600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user click on Myaccount",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Myaccount()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-20T15:17:39.303Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1913981600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 39,
+        "name": "Retail website Login test with multiple accounts",
+        "description": "",
+        "id": "login-to-retail-website;retail-website-login-test-with-multiple-accounts;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 272842900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 463734600,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user click on Login option",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 474022600,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enter userName \u0027eagles@tekschool.us\u0027 and password \u0027eagles\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "eagles@tekschool.us",
+                  "offset": 21
+                },
+                {
+                  "val": "eagles",
+                  "offset": 56
+                }
+              ],
+              "location": "stepDefinition.LoginStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 454696600,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user click on Login Button",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 161975500,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user should be logged in to Myaccount dashboard",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_should_be_logged_in_to_Myaccount_dashbaord()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@endtoendTesting"
+          },
+          {
+            "name": "@smokeTest"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 738677200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 344237700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user click on Myaccount",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Myaccount()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-20T15:17:44.059Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1843909700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 40,
+        "name": "Retail website Login test with multiple accounts",
+        "description": "",
+        "id": "login-to-retail-website;retail-website-login-test-with-multiple-accounts;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 231152600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 420592600,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user click on Login option",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 465244500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enter userName \u0027hawks@tekschool.us\u0027 and password \u0027hawks\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hawks@tekschool.us",
+                  "offset": 21
+                },
+                {
+                  "val": "hawks",
+                  "offset": 55
+                }
+              ],
+              "location": "stepDefinition.LoginStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264057500,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user click on Login Button",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 186680200,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user should be logged in to Myaccount dashboard",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_should_be_logged_in_to_Myaccount_dashbaord()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@endtoendTesting"
+          },
+          {
+            "name": "@smokeTest"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 589127900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 340000600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user click on Myaccount",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Myaccount()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-20T15:17:48.568Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1967354900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 41,
+        "name": "Retail website Login test with multiple accounts",
+        "description": "",
+        "id": "login-to-retail-website;retail-website-login-test-with-multiple-accounts;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 211921300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 443378400,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user click on Login option",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_on_Login_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 426713800,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enter userName \u0027falcons@tekschool.us\u0027 and password \u0027falcons\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "falcons@tekschool.us",
+                  "offset": 21
+                },
+                {
+                  "val": "falcons",
+                  "offset": 57
+                }
+              ],
+              "location": "stepDefinition.LoginStepDef.user_enter_userName_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 283955400,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user click on Login Button",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_click_login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169042000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user should be logged in to Myaccount dashboard",
+            "match": {
+              "location": "stepDefinition.LoginStepDef.user_should_be_logged_in_to_Myaccount_dashbaord()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@endtoendTesting"
+          },
+          {
+            "name": "@smokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Login to Retail Website",
+    "description": "",
+    "id": "login-to-retail-website",
+    "keyword": "Feature",
+    "uri": "classpath:features/login.feature",
+    "tags": []
+  }
+]
